@@ -1,0 +1,6 @@
+[alias]
+lint = "clippy --workspace --all-targets --all-features -- -D warnings"
+
+rapi = "fmt --all"
+
+sapu = "clippy --workspace --fix --allow-dirty --allow-staged"
