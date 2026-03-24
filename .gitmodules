@@ -1,0 +1,3 @@
+[submodule "senja_teras"]
+    path = senja_teras
+    url = https://github.com/puisiteras/senja_teras.git
