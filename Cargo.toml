@@ -15,3 +15,7 @@ panic = "abort"
 opt-level = 0
 debug = true
 strip = "none"
+
+[workspace.dependencies]
+libc = "0.2.183"
+anyhow = "1.0.102"
